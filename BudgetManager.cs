@@ -95,3 +95,4 @@ public class BudgetManager
         Console.WriteLine("Transaktion borttagen.\n");
     }
 }
+//Denna klass representerar en transaktion: t.ex. lön eller utgift
