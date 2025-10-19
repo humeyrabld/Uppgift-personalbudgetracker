@@ -95,3 +95,4 @@ public class BudgetManager
         Console.WriteLine("Transaktion borttagen.\n");
     }
 }
+// Denna klass hanterar alla transaktioner i programmet
