@@ -1,1 +1,20 @@
+Personal Budget Tracker är ett konsolprogram i C# som låter användaren hantera sina inkomster och utgifter. Användaren kan lägga till transaktioner, se en lista över alla poster, visa sin totala balans och ta bort transaktioner. Programmet är byggt med hjälp av objektorienterad programmering, listor och metoder.
+Projektet är också versionshanterat professionellt med Git & GitHub, med flera grenar, pull requests och branch protection aktiverad.
+
+2. Öppna lösningen i **Visual Studio**.
+
+3. Tryck `Ctrl + F5` eller klicka på "Start" för att köra programmet.
+
+Här är ett exempel att skriva i terminalen när programmet körs
+Namn: Humeyra Bulduk
+Datum: 2025-10-19  
+Klass: Bed25
+
+Reflektionsfrågor:
+
+Hur hjälpte klasser och metoder dig att organisera programmet?
+Att använda klasser och metoder gjorde det mycket enklare att strukturera programmet. Jag kunde separera data (t.ex. en transaktion) från logik (t.ex. beräkning av saldo). Klasserna `Transaction` och `BudgetManager` gjorde att koden blev mer läsbar, återanvändbar och lättare att felsöka. Det blev också lättare att testa enskilda delar.
+
+Vilken del av projektet var mest utmanande?
+Den mest utmanande delen var att arbeta korrekt med Git och GitHub, särskilt att förstå hur grenar och pull requests fungerar. Det var också lite svårt i början att få menyn och loopen att fungera rätt i `Program.cs`, men när jag bröt upp logiken i metoder blev det enklare.
 
