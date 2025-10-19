@@ -14,11 +14,11 @@ class Program
         {
             // Skriver ut menyval
             Console.WriteLine("=== Personal Budget Tracker ===");
-            Console.WriteLine("1. ➕ Lägg till transaktion");
-            Console.WriteLine("2. 📋 Visa alla transaktioner");
-            Console.WriteLine("3. 💰 Visa total balans");
-            Console.WriteLine("4. 🗑️ Ta bort transaktion");
-            Console.WriteLine("5. 💾 Avsluta programmet");
+            Console.WriteLine("1. Lägg till transaktion");
+            Console.WriteLine("2. Visa alla transaktioner");
+            Console.WriteLine("3. Visa total balans");
+            Console.WriteLine("4. Ta bort transaktion");
+            Console.WriteLine("5. Avsluta programmet");
             Console.Write("Ditt val: ");
             string choice = Console.ReadLine();
 
